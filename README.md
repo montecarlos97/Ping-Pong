@@ -20,4 +20,4 @@ Ping Pong is a web application that takes a number from a user and returns a ran
 - JAVASCRIPT
 - JQUERY
 
-Copyright (c) {year} **{List of contributors or company name}**
+Copyright (c) 2017 **by Tonney Magaki**
